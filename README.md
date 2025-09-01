@@ -1,10 +1,6 @@
 <h1 align="center">Hi , I'm Esteban Lozano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="https://raw.githubusercontent.com/Teban1306/Teban1306/main/ghostedvpn-hacker-cat.gif" width="100" align="left" >
-
-<h1>About me</h1>
-
-
+<img src="https://raw.githubusercontent.com/Teban1306/Teban1306/main/ghostedvpn-hacker-cat.gif" width="100" align="left" > <h2>About me</h2>
 <br><br>
 
 - :school: I am a `Junior` student in the sixth semester of systems engineering at the [University of Research and Development](https://web.udi.edu.co/). in Bucaramanga.
