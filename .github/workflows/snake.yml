@@ -5,13 +5,15 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: platane/snk@master
-        id: snake-gif
+      - uses: platane/snk@v3
         with:
           github_user_name: teban1306
           svg_out_path: dist/github-contribution-grid-snake.svg
