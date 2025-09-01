@@ -17,8 +17,9 @@
 - :technologist: Passionate about `Software development`, `Data science`, and `Problem-solving`.
 - :student: I’m currently learning `Data science` and `Systems Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+<!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- -->
 <br>
 
 
@@ -112,17 +113,17 @@
 	
 <details>
   <summary>
-    <h3> :open_file_folder: Mis Repositorios </h3>
+    <h3> :open_file_folder: My Repositories </h3>
   </summary>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="https://github.com/Teban1306/APPWEB-erp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teban1306&repo=APPWEB-erp&theme=tokyonight" alt="APPWEB-erp" style="width: 300px; height: 300px; object-fit: cover;" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teban1306&repo=APPWEB-erp&theme=tokyonight" alt="APPWEB-erp" " />
     </a>
     <a href="https://github.com/Teban1306/LandingBlytheTIKNO">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teban1306&repo=LandingBlytheTIKNO&theme=tokyonight" alt="LandingBlytheTIKNO" style="width: 300px; height: 300px; object-fit: cover;" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teban1306&repo=LandingBlytheTIKNO&theme=tokyonight" alt="LandingBlytheTIKNO"  />
     </a>
     <a href="https://github.com/Teban1306/Integrador-Gestion-de-Equipos-y-Salas">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teban1306&repo=Integrador-Gestion-de-Equipos-y-Salas&theme=tokyonight" alt="Integrador-Gestion-de-Equipos-y-Salas" style="width: 300px; height: 300px; object-fit: cover;" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Teban1306&repo=Integrador-Gestion-de-Equipos-y-Salas&theme=tokyonight" alt="Integrador-Gestion-de-Equipos-y-Salas" />
     </a>
   </div>
 </details>
