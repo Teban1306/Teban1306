@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Esteban Lozano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<img src="https://raw.githubusercontent.com/Teban1306/Teban1306/main/ghostedvpn-hacker-cat.gif" width="100" align="left" >
 
-
-<br>
+<h1>About me</h1>
 
 
 <br><br>
