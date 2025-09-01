@@ -10,15 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: platane/snk@master
-        id: snake-gif
+      - uses: platane/snk@v3
         with:
           github_user_name: teban1306
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.png
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
