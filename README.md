@@ -5,12 +5,6 @@
 <br>
 
 
-
-	
-<picture><img src = "https://tenor.com/es-419/view/rebrnd-coding-programmer-programming-gif-5486586409214780761?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://tenor.com/es-419/view/rebrnd-coding-programmer-programming-gif-5486586409214780761" width = 250px></picture>
-
 <br><br>
 
 - :school: I am a `Junior` student in the sixth semester of systems engineering at the [University of Research and Development](https://web.udi.edu.co/). in Bucaramanga.
